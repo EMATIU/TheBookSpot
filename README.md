@@ -3,4 +3,4 @@
 The Book Spot is an intuitive web application that serves as an online library, offering an enhanced experience for its users. Its search function enables users to easily discover books, authors and genres of their choosing. Additionally, the app allows users to share their valuable insights through ratings and reviews of the books they have read, creating a vibrant community of literary enthusiasts.
 
 # Team
-Pintenaru-Dumitrescu Nicole Melissa   Negrea Mihai   Tiu Ema 
+1.Pintenaru-Dumitrescu Nicole Melissa <br>  2.Negrea Mihai <br>  3.Tiu Ema <br>
